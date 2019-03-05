@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Minh Le",
+      "authorEmail": "libraminh@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
